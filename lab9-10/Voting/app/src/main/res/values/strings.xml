@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voting</string>
+    <string name="title_activity_create">CreateActivity</string>
+    <string name="title_activity_voting">VotingActivity</string>
+</resources>

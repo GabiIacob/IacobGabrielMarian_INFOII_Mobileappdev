@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Concurs</string>
+    <string name="title_activity_add_participant">AddParticipantActivity</string>
+</resources>
